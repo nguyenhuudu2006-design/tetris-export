@@ -1,7 +1,4 @@
 #pragma once
-// ============================================================
-// ChuDe.h — Chủ đề màu sắc và hình nền cho 10 level
-// ============================================================
 #include <SFML/Graphics.hpp>
 #include <string>
 #include <vector>
