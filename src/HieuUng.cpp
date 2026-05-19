@@ -1,7 +1,3 @@
-// ============================================================
-// HieuUng.cpp
-// Hiệu ứng nổ block, combo text, particles
-// ============================================================
 #include "HieuUng.h"
 #include <cmath>
 #include <algorithm>
