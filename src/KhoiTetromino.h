@@ -1,8 +1,4 @@
 #pragma once
-// ============================================================
-// KhoiTetromino.h
-// Class trừu tượng đại diện cho một khối Tetris
-// ============================================================
 #include <vector>
 #include <string>
 #include <SFML/Graphics.hpp>
