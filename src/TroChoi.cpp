@@ -1,7 +1,3 @@
-// ============================================================
-// TroChoi.cpp — Class chính điều phối toàn bộ game Tetris
-// Cửa sổ 1100×780, tên biến/hàm tiếng Việt
-// ============================================================
 #include "TroChoi.h"
 #include <stdexcept>
 #include <iostream>
