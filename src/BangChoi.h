@@ -1,7 +1,4 @@
 #pragma once
-// ============================================================
-// BangChoi.h
-// ============================================================
 #include "KhoiTetromino.h"
 #include <vector>
 #include <SFML/Graphics.hpp>
