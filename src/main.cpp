@@ -1,9 +1,3 @@
-// ============================================================
-// main.cpp — Điểm vào chương trình Tetris
-// Môn: Kỹ Thuật Lập Trình Nâng Cao
-// Ngôn ngữ: C++17 | Thư viện: SFML 2.5+
-// ============================================================
-
 #include "TroChoi.h"
 #include "QuanLyDiem.h"
 #include <stdexcept>
