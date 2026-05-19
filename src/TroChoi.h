@@ -1,9 +1,4 @@
 #pragma once
-// ============================================================
-// TroChoi.h — Class chính
-// + Âm thanh 8-bit (AmThanh.h)
-// + Cửa sổ có thể resize, tự scale layout
-// ============================================================
 #include "BangChoi.h"
 #include "NhaMayKhoi.h"
 #include "QuanLyDiem.h"
