@@ -1,8 +1,4 @@
 #pragma once
-// ============================================================
-// NhaMayKhoi.h
-// Template class TuiNgauNhien<T,N> + NhaMayKhoi
-// ============================================================
 #include "KhoiTetromino.h"
 #include <memory>
 #include <random>
