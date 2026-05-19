@@ -1,7 +1,3 @@
-// ============================================================
-// QuanLyDiem.cpp
-// Quản lý điểm số — lưu/tải file binary
-// ============================================================
 #include "QuanLyDiem.h"
 #include <fstream>
 #include <algorithm>
