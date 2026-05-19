@@ -1,17 +1,4 @@
 #pragma once
-// ============================================================
-// AmThanh.h — Quan ly am thanh game Tetris
-// assets/sounds/:
-//   nhac_menu.mp3  <- nhac sanh cho / menu (loop)
-//   nhac_game.wav  <- nhac trong khi choi (loop)
-//   roi_block.wav  <- dat block xuong
-//   xoay.wav       <- xoay khoi
-//   xoa_hang.wav   <- xoa 1-3 hang
-//   tetris.wav     <- xoa 4 hang
-//   len_level.wav  <- len level
-//   soft_drop.wav  <- roi nhanh
-//   game_over.wav  <- game over
-// ============================================================
 #include <SFML/Audio.hpp>
 #include <array>
 #include <string>
